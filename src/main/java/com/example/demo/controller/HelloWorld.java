@@ -15,7 +15,7 @@ public class HelloWorld {
     }
     
     @RequestMapping("/hi")
-    public String index() {
+    public String index_1() {
         return "Hello World!";
     }
 
